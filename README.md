@@ -1,5 +1,5 @@
 # react-webpack-setup
 Instructions
-Clone this repo
-Run npm install
-Run npm start, localhost:8080 will open up in your default browser
+1. Clone this repo
+2. Run npm install
+3. Run npm start, localhost:8080 will open up in your default browser
